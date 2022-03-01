@@ -1,0 +1,888 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An illegal way to get another mans estate ... by William Ball.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01854</idno>
+            <idno type="STC">Wing B590</idno>
+            <idno type="STC">ESTC R170436</idno>
+            <idno type="EEBO-CITATION">53981602</idno>
+            <idno type="OCLC">ocm 53981602</idno>
+            <idno type="VID">180101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180101)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2813:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An illegal way to get another mans estate ... by William Ball.</title>
+                  <author>Ball, William.</author>
+                  <author>Standen, William, fl. 1653.</author>
+                  <author>Bullock, Edward.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: heavily stained with significant loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Possessory interests in land --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180101:1"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>LATELY</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> AND <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Preſented to the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> affected Perſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>J<g ref="char:V">Ʋ</g>ST<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>By WILLIAM BALL</p>
+            <p>
+               <hi>LON<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Printed in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180101:2"/>
+            <pb facs="tcp:180101:2"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tweene one <hi>Edward</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>England,</hi> Gent. and one <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the County of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecks,</hi> 
+               <abbr>Eſq</abbr> in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mappe, may be ſeen <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> undue, and fraudulent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Arbitrary oppreſſion, as the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>On the 7. of <hi>November,</hi> 1650. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſpecious pretences procured his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the late Houſe of Parliament, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>That his Uncle, one</hi> Thomas Bullock <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>time, if true, had been above threeſcore <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Petition was exhibited) morgaged the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of</hi> Arberfeld <hi>and</hi> Barkham <hi>in the County <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Edmond Standen <abbr>
+                  <hi>Eſq</hi>
+               </abbr> 
+               <hi>for</hi> 4000 l. <hi>with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>demption</hi> (as Bullock did alledge) <hi>and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> corrupt practices betweene the aforeſaid <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and the Lord Keeper</hi> Egerton. <hi>The <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tified by Decree on behalfe of</hi> Stan<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>further conſideration.</hi> To that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Parliament gave ſome <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:180101:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> late) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who were choſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion, ſhould give credit to ſuch a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>:<note place="margin">1.</note> For firſt, How could their late Honours ſupport, that a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (if any ſuch had beene) <hi>touching a M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gage</hi> would not have beene complained of, and alſo redreſſed or relieved in the time of ſo many ſucceeding Lord Keep<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, or Parliaments, during the ſpace of ſixty, yeares;<note place="margin">2.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the true Caſe betweene <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>der</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llock</hi> aforeſaid is a Book caſe reported by the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cook</hi> in his third Book in <hi>Twines</hi> Caſe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>G<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s</hi> Caſe; ſo that ſuch Lawyers as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> might (as according to their truſt they ought <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuch a frivolous and ſcandalous <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the late Honourable Mr. <hi>Speaker</hi> did his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therein] unleſſe ſuch Lawyers feared, as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ſhould have been thwarted by ſome of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Thirdly, the matter of that Petition <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of equity (as alleadged) and foraſmuch as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was of great concernment, it ought in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have beene Committed to the Lord Keepers, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oners of the Great Seale to have heard, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Caſe <hi>according to the Rules of Equity con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> For Equity is but a Candid, or milde in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Law, not an abolition thereof or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> caſe ought to have beene referred to ſome <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ery to have examined, heard, and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uſe: but the buſineſſe ought not to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Committee of Indempnity (of which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> might at his pleaſure become
+<pb facs="tcp:180101:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>England</hi> might <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Plea<g ref="char:EOLhyphen"/>ſure,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> wherefore I ſhall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pe<g ref="char:EOLhyphen"/>tition to inſtan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Three things <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other Power in <hi>England</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> become Tyrants, Oppreſſions, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to their Co<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y) to witt,</p>
+            <p n="1">1. To deliver over this people to a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p n="2">2. To deliver over the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ati<g ref="char:EOLhyphen"/>on ill Benefit</hi>) of this people <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſtinct in Law and Government.</p>
+            <p n="3">3. To deprive this people <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>their Nationall Right:</hi> to witt, to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Right</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Law in Being;</hi> in regard <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is only <hi>Effectively</hi> or <hi>Efficaciouſly</hi>) not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> [nor hath any Parliament in <hi>England</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> otherwiſe] ſo that the Parliament <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Law (howbeit not againſt the Law of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as ſuch a Law is in Being, neither the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any other power can of <hi>a legall matter <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>trary.</hi> The reaſon of all is, For that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ought to be <hi>Regular,</hi> in order unto the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (THE SVPREAME LAVV) not any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry tending to their deſtruction.</p>
+            <p>Wherefore if the Parliament, or any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at any time give, or grant the right of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> meerely becauſe it ſhall be their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhould violate the right of one <hi>Act<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:180101:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> foraſm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> undergr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <note place="margin">☞</note> And <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Petition; after he had obtained the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in ſtead of producing <hi>the Deed of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> inſiſted upon</hi> (as by the ſaid Petition it doth, and may appeare) <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llock</hi> moved the Committee for Indempnity (ſome of whom were his Complices for another Order into the Country to exa<g ref="char:EOLhyphen"/>mine Witneſſes on his behalfe, touching the pretended Morgage aforeſaid, and that Committee (although they were no way warranted by the Parliaments Order) gran<g ref="char:EOLhyphen"/>ted unto him an Order, or Commiſſion to that end, wherewith <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llock</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>er came into the Countrie, va<g ref="char:EOLhyphen"/>pouring of his great friendſhip, and acquaintance with Parliament men, and that they were ſure to have the Manours and Lands mentioned in the Petition aforeſaid; by which ſubtill deportment, and by promiſes of courte<g ref="char:EOLhyphen"/>ſies, and friendly<g ref="char:punc">▪</g> Neighbourhood, &amp;c. <hi>Bullock</hi>'s Bro<g ref="char:EOLhyphen"/>ther (one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ock</hi>) craftily-won unto himſelfe many ignorant and credulous people in and about <hi>Wocking<g ref="char:EOLhyphen"/>ham,</hi> eſpecially ſuch as were of his owne Name, Kinred, and Friends; ſome of whom (allbeit but Cottagers and ſuch like) by vertue of the <hi>undue Order or Commiſsion</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Committee of Indempnity (for they had no <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to grant it) were induced to depoſe; and depoſed, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> heard ſay, that the Mannors, and Lands men<g ref="char:EOLhyphen"/>tion<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> morgaged for</hi> 4000 l. <hi>that they had heard ſay, that the Lands were worth</hi> 800 l. per ann. <hi>at the time of ſale; that they heard ſay, that the Woods and Timber were worth, ſaid one,</hi> 8000 l. <hi>ſayes another,</hi> 10000 l. &amp;c. With thoſe depoſitions, <hi>Bullock</hi> and his Brother excee<g ref="char:EOLhyphen"/>dingly boaſted, and at <hi>Westminſter</hi> moved the aforeſaid
+<pb facs="tcp:180101:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>De<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Standen</hi> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> undenyable Re<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> under the Great <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.<note place="margin">
+                  <hi>Bullock</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther produ<g ref="char:EOLhyphen"/>ced any ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Decree, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is any ſuch producible.</note> that the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lands were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. After <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Bro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Progreſs in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, they then beg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> af<g ref="char:EOLhyphen"/>ter the Commiſſioners for I <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ber<g ref="char:EOLhyphen"/>daſhers</hi> Hall) were inſtituted <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <hi>June</hi> the 23. 1652. which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without any <note place="margin">☞</note> power given them by the ſaid <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſcope of the Act is meerely for matters <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for any caſe referred by ſpeciall Order of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the late Committee) did voluntarily undertake to re-heare the ſaid caſe (betweene <hi>Bullock</hi> and <hi>Standen</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on the firſt of <hi>October</hi> 1652. The very day <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich re-hearing, <hi>Bullock</hi> had procured one fellow to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſome<g ref="char:EOLhyphen"/>what more then his former Deponents, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nden</hi> the Defendant did make the contrary <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and undenyable Records (and certainly <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of men, who may poſſibly, yea probably, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in this caſe on <hi>Bullock</hi>'s behalfe, ought to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with Records) yet the ſaid Commiſſioners <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heare the caſe, to the great charges and tro<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>den</hi> the Defendant; and not long before the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the late Parliament ordered <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both <hi>Bullock</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Standen</hi> ſhould preſent their caſts ſeverally in writin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der their <hi>Hands</hi> unto Mr. <hi>Brereton</hi> of Councel for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:180101:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Howe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, both <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fence punctually <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore the ſaid Commiſſioners, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unto Mr. <hi>Brereton</hi> aforeſaid, under the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hand; ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that here<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> ſuch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proceedings whereby any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> danger <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; but that according for the Lord Generalls late Declaration (<hi>April</hi> the laſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.) <hi>The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Land ſhall be obſerved and obeyed.</hi>
+            </p>
+            <closer>
+               <signed>William Ball.</signed>
+               <dateline>
+                  <date>
+                     <hi>May the</hi> 25. 16<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:180101:5"/>
+            <head>To the Supreme Au<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ity <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, the Parliam<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The humble Petition of <hi>Edward Bullock</hi> Gentle<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, an Inhabitant of <hi>New-England.</hi>
+            </head>
+            <opener>SHEVVETH,</opener>
+            <p>THat <hi>Tho: Bullock</hi> your Petitioners <g ref="char:V">Ʋ</g>nkle being ſeized of two Mannors to him and his heires males for ever, <hi>viz.</hi> the Mannor of <hi>Arbeifeld</hi> and the Mannor of <hi>Barkham,</hi> and divers other Lands lying in the County of <hi>Berk</hi> of the yearly value of <hi>800. l.</hi> or thereabout, the timber growing then upon the ſaid lands being worth <hi>10000. l.</hi> and upwards. And the ſaid <hi>Tho: Bullock</hi> above <hi>70.</hi> yeares ſince mortgaged all the ſaid lands to one Maſter <hi>Edmund-Standen</hi> for <hi>4000. l.</hi> with a full power of Redemption, (as by the Deed of Mortgage appeareth.) And your Pet. further ſheweth, That the ſaid <hi>Tho: Bullock</hi> ſhortly after dyed, leaving the redemption of the ſaid Lands unto his Brother <hi>William Bullock</hi> your Pet. Father, who was Heire at Law to the ſaid <hi>Thomas.</hi> Whereupon <hi>Will: Bullock</hi> exhibited a Bill in Chan<g ref="char:EOLhyphen"/>cery againſt the ſaid <hi>Standen,</hi> whilſt <hi>Edgerton</hi> was Lo: Keeper: but the ſaid <hi>Standen</hi> being powerfull with the ſaid Lo: Keeper, upon Bill and Anſwer obtained a Decree or Order in ratifioation of the ſaid Mortgage, without paying any more money for the ſaid Lands, though it was then well known the Lands and Timber growing thereupon, were worth above <hi>20000. l.</hi> more then they were mortgaged for. And your Pet. farther ſheweth, That the ſaid <hi>Will: Bullock</hi> his Father was committed to the Fleet, and there remained a Priſoner by the space of five years, meerly for speaking in his owne Cauſe at the time of Hea<g ref="char:EOLhyphen"/>ring, which was to the ruine of him, his wife and ten children then li<g ref="char:EOLhyphen"/>ving. Afterwards <hi>Will: Bullock</hi> dyed and left foure ſons living, <hi>viz. Thomas, William,</hi> your Petitioner <hi>Edward,</hi> and <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet. Thomas</hi> and <hi>Will:</hi> dyed without iſſue, ſo that your Pet. is now Heire at Law, and hath the onely equitable intereſt for redemption of the ſaid Lands. And your Pet. further ſheweth, that the ſaid <hi>Edmund Standen</hi> long ſince dyed, leaving all the ſaid mortgaged lands to one <hi>William Standen</hi>
+               <abbr>Eſq</abbr> his onely child, who about ten years ſince dyed without iſſue. But
+<pb facs="tcp:180101:6"/>ſo it is, (<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y it pleaſe this Honourable Aſſembly) that one <hi>William Sp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> laid Citizen and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>London,</hi> hath gotten into the poſ<g ref="char:EOLhyphen"/>ſeſſion of all the ſaid mortgaged lands, inſiſting upon the validity of the ſaid D<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> or Order, reſol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to hold the lands againſt your Pet. having the preſent advantage of all the rents and profits of the ſaid lands, being now worth <hi>1000. l. per ann.</hi> or thereabouts.</p>
+            <p>Now foraſmuch as your Pet, (an inhabitant of <hi>New-England</hi>) re<g ref="char:EOLhyphen"/>ceiving encouragement by ſeverall eminent acts of Justice to o<g ref="char:EOLhyphen"/>thers of the like nature to attend this Honourable Aſſembly for <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>fe against that corrupt Decree or Order made by the ſaid Lo: Keeper in behalfe of the ſaid <hi>Standen.</hi>
+            </p>
+            <p>Your Pet. humbly implores this honourable Aſſembly, That the whole proceedings touching the obtaining of the ſaid Decree or Order, together with all the foule and corrupt practiſes therein may be referred to the examination of a Committee of P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rl. That ſo your Pet. may at length by the juſtice of this renowned P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<g ref="char:punc">▪</g> be reſtored to the due inheritance of his Anceſtors of more than <hi>500.</hi> years ſtanding, in poſſeſſion. And your Pet. ſhall not onely ſubmit to what your Honours ſhall think equall and juſt, but</p>
+            <closer>
+               <signed>He and his Fathers houſe ſhall pray, &amp;c. <hi>Edward Bullock.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:180101:6"/>
+            <head>
+               <hi>THE TRUE STATE OF The Caſe of</hi> William Standen; <abbr>
+                  <hi>Eſq</hi>
+               </abbr> Defendant, againſt Mr. <hi>Edward Bullock</hi> Petitioner Complainant, as it hath been lately made appeare before the now Commiſsi<g ref="char:EOLhyphen"/>oners for Indempnity ſitting at <hi>Haber<g ref="char:EOLhyphen"/>daſhers</hi> Hall, <hi>LONDON.</hi>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <seg rend="decorInit">T</seg>He Mannors, and Lands in the Petition mentioned, and complained of, or pretend<g ref="char:EOLhyphen"/>ed to have been Morgaged by <hi>Thomas Bullock,</hi> in the ſaid Petition mentioned, unto <hi>Edmund Standen,</hi> 
+               <abbr>Eſq</abbr> in that Peti<g ref="char:EOLhyphen"/>tion alſo mentioned, were by the ſaid <hi>Thomas Bullock</hi> ſold outright for 4000. l. by Deede of Bargaine and Sale, bearing Date the 4. day of <hi>June,</hi> in the 31. yeare of the Reigne of Queen <hi>Eliz.</hi> unto <hi>Edmund Standen</hi> afore<g ref="char:EOLhyphen"/>ſaid, and to his Heires, and Aſſignes for ever.</p>
+            <p>
+               <hi>This was made appeare, and prove by a Copy of the Deed of Bargaine and Sale, taken one of the Rolls; which Copy was proved true by</hi> Joh: Wrightington,<note place="margin">Since when reſtored.</note> 
+               <hi>and left ſometime with the Commiſsioners afore<g ref="char:EOLhyphen"/>ſaid.</hi>
+            </p>
+            <pb n="10" facs="tcp:180101:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſaid Mannors and Lands, were abſolutely Ratified, and confirmed unto the aforeſaid <hi>Edmond Standen,</hi> and to his Heirs, and Aſſignes for ever, by a Releaſe of Intereſt with warranty, bearing Date the 5. day of <hi>August,</hi> in the 31. yeere of the Reigne of the aforeſaid Queen.</p>
+            <p>
+               <hi>This was made appeare, and proved by the Deed of Re<g ref="char:EOLhyphen"/>leaſe of Intereſt</hi> (Enrolled) <hi>and produced before the Commiſsioners aforeſaid.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The ſaid <hi>Thomas Bullock</hi> had full and Legall Power to ſell and convey the ſaid Manors, and Lands, notwith<g ref="char:EOLhyphen"/>ſtanding an Act or Deed by him formerly made, pur<g ref="char:EOLhyphen"/>porting certaine uſes, and bearing Date the ſecond day of <hi>January,</hi> in the 28. yeere of the Reigne of the aforeſaid Queen, and within the reliefe of the Stat. of <hi>Eliz.</hi> 29. in regard the ſaid Deed was not onely afterwards adjudged fraudulent, but alſo for that the ſaid Deed was made with full power of Revocation of him the ſaid <hi>Thomas Bullock</hi> at his pleaſure, during the terme of his Naturall life, by writing ſealed and delivered before ſixe credible Perſons.</p>
+            <p>
+               <hi>This was made appeare, and proved by</hi> Tho: Bullock <hi>his Deed</hi> (Enrolled) <hi>bearing Date as aforeſaid, and produced before the Commiſsioners aforeſaid.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The ſaid <hi>Tho: Bullock</hi> did afterwards actually revoke all, and every the uſes, Intents and purpoſes of the aforeſaid Deed in his life time, by a Deed of Revocation in wri<g ref="char:EOLhyphen"/>ting by him the ſaid <hi>Thomas</hi> ſealed, and executed before ſeven perſons therein nominated, and Dated the 8. day of <hi>December, Eliz.</hi> 31.</p>
+            <p>
+               <hi>This was made appeare, and proved by a Copy of Deed of Revocation taken out of the Rolls, which Copy was proved true, by</hi> Iohn Wrightington <hi>aforeſaid,</hi> and left ſometime of late with the aforeſaid Com<g ref="char:EOLhyphen"/>miſſioners.</p>
+            <pb n="11" facs="tcp:180101:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Mannors and Lands aforeſaid, were by ſeverall Fines and Recoveries at Law ſetled, and confirmed upon <hi>Edmund Standen</hi> the Purchaſor, and on his Heires and Aſſignes for ever.</p>
+            <p>
+               <hi>This was made appeare, and proved by Fines, and Re<g ref="char:EOLhyphen"/>coveries exemplified under the Great Seale of Queen</hi> Eliz. <hi>Dated the</hi> 5. <hi>day of</hi> November, <hi>in the</hi> 36. <hi>yeer of the ſaid Queens Reigne, and produced before the Commiſsioners aforeſaid.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> The aforeſaid <hi>Tho: Bullock</hi> did abſolutely confeſſe, and acknowledge, that he had ſold the Mannors, and Lands aforeſaid outright for 4000 l. <hi>and that he had a Deed of de<g ref="char:EOLhyphen"/>feaſance of the ſaid Mannors,</hi>
+               <note place="margin">☞</note> 
+               <hi>and Lands for the Terme of his Naturall life, yeelding and prying therefore</hi> 150 l. <hi>per annum;</hi> and did farther acknowledg the ſaid <hi>Edmund Standen</hi> to have been the beſt chapman he could meet withall, upon valuable conſideration for the ſayd Lands; and did moreover acknowledg the ſaid <hi>Edmund Standen,</hi> his friendly dealing with him the ſaid <hi>Bullock.</hi>
+            </p>
+            <p>
+               <hi>This was made appeare, and proved by a Bill of</hi> Ed<g ref="char:EOLhyphen"/>mund Standen <hi>aforeſaid, filed in Chancery to diſ<g ref="char:EOLhyphen"/>cover Incombrances) and by the anſwer of</hi> Thomas Bullock <hi>aforeſaid unto the ſaid Bill; both which are exemplified under the Great Seal of Queen</hi> Elizabeth, <hi>Dated the</hi> 15. <hi>day of</hi> February,<note place="margin">Since when reſtored.</note> 
+               <hi>in the</hi> 36 <hi>yeare of the ſaid Queens Reigne;</hi> and left ſome time of late with the aforeſaid Commiſſioners; <hi>alſo, This was made appeare, and proved by a latter Deed (in the ſaid Bill, and anſwer mentioned) bearing Date the</hi> 30. <hi>day of</hi> May, Eliz. 32.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> The Decree in Chancery made by the Lord Keeper <hi>Egerton</hi> complained of by the Petitioner <hi>Edward Bullock</hi> to have been corrupt,<note place="margin">☞</note> and to have ratified a Morgage
+<pb n="12" facs="tcp:180101:8"/>of the ſaid Lands (as in the Petition ſuggeſted) doth not on any point or clauſe inſtance one tittle of a Morgage of the Mannors, and Lands aforeſaid, much leſſe ratifie any ſuch pretended Morgage; but the ſaid Decree made by the aforeſaid Lord <hi>Keeper,</hi> by, and with the aſsiſtance of Sir <hi>John Popham</hi> Knight, chiefe Juſtice of the Queens Bench, and of Sir <hi>Edmond Anderſonne</hi> Knight, chiefe Juſtice of the Queens Court of Common Pleas, doth ratifie and confirme the Mannors, and Lands aforeſaid, in equity unto <hi>Edmund Standen</hi> Complainant, againſt the unjuſt claimes and pretences of <hi>William Bullock</hi> the now Petitioners Father, as by the ſaid Decree it doth and may appear, grounded upon the reaſons therein ſpecified; ſome whereof are alſo mentioned by Sir <hi>Edward Cooke,</hi> in the third book of his Reports, <hi>in Twines Caſe.</hi>
+            </p>
+            <p>
+               <hi>This was made appeare, and proved by the ſaid Decree, exemplified under the Great Seale of Queen</hi> Eliz. <hi>Dated the</hi> 5. <hi>day of</hi> June,<note place="margin">Since when reſtored.</note> 
+               <hi>in the</hi> 39. <hi>yeer of the ſaid Queens Reigne;</hi> and left ſometime of late with the Commiſsioners aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+               <hi>William Bullock</hi> the now Petitioners Father, pretended a Leaſe of 800. yeers, of the aforeſaid Mannors, and Land demiſed unto him by <hi>Thomas Bullock</hi> aforeſaid, [had there been a Morgage of the ſaid Mannors, and Lands as is now pretended, he needed not to have ſeined ſuch a Leaſe, but to have deſired Redemption] and to tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end the ſaid <hi>William Bullock</hi> ſuborned, and endea<g ref="char:EOLhyphen"/>voured to ſuborne Evidence, or Witneſſes; and for forging, or feining of the Leaſe aforeſaid, and for other his notorious practiſes, the ſaid <hi>William Bullock</hi> was cen<g ref="char:EOLhyphen"/>ſured in the Starre-Chamber.</p>
+            <p>
+               <hi>This was made appeare, and proved by a Deecree of Starre-Chamber, exemplified under the Great Seale
+<pb n="13" facs="tcp:180101:8"/>of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 30. <hi>of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the ſaid Queens Reigne;</hi>
+               <note place="margin">Si<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> re<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </note> and left <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of late with the Commiſſioners aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> At the time of the purchaſe, Miſtreſſe <hi>Dorothy Bullock,</hi> wife of <hi>Thomas Bullock</hi> aforeſaid, had Right of Dower, and enjoyed Dower afterwards for a long ſeaſon.</p>
+            <p>
+               <hi>This was made appeare, and proved by a Deed of Aſ<g ref="char:EOLhyphen"/>ſignement of Dower, under the ſaid</hi> Dorothy <hi>her hand, and ſeale; Dated the firſt day of</hi> July, Eliz. 37.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> At the time of the Purchaſe, there were four Leaſes in being for 15. or 16. yeers of a good part of the Demeaſ<g ref="char:EOLhyphen"/>neſſe of the Premiſſes, at ſmall Rents, which the Leſſees (whereof <hi>William Bullock</hi> aforeſaid was one) were to en<g ref="char:EOLhyphen"/>joy againſt the Purchaſor <hi>Standen,</hi> although the vendor <hi>Bullock</hi> ſhould dye.</p>
+            <p>
+               <hi>This was made appeare, and proved by the Covenants in the Copy of the Deed of Bargaine, and Sale a<g ref="char:EOLhyphen"/>foreſaid; alſo by the aforeſaid anſwer of</hi> Thomas Bullock <hi>exemplified,</hi> &amp;c. <hi>alſo by the Decree in Chan<g ref="char:EOLhyphen"/>cern fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erly mentioned, alſo by the depoſition of</hi> John <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anner, <hi>taken by Order of the former Commit<g ref="char:EOLhyphen"/>tee for I<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ity.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> The mannors and Lands aforeſaid, are ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uat in the Forreſt of <hi>Windſor,</hi> and at the time of the ſale of them to <hi>Edmund Standen</hi> aforeſaid, ſubject to the ſtrict execution of the Forreſt Laws, which made them of leſſe value and eſteeme.</p>
+            <p>
+               <hi>This was made appeare and proved by the ſeverall Depo<g ref="char:EOLhyphen"/>ſitions of</hi> Stephen Roſe, Wiliam Bullock, Anne Hamlyn, John Planner, <hi>and</hi> Richard Bullock, <hi>taken by Order of the Committee aforeſaid.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> The Mannors and Lands aforeſaid, are averred to have been (according to conſtant Report) ſold out-right.</p>
+            <pb n="14" facs="tcp:180101:9"/>
+            <p>
+               <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſ<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> of</hi> Anne Hamlyn, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by Order of the Committee aforeſaid.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> The ſuits between <hi>Edmond Standen</hi> and <hi>Will: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> the now Petitioners Father, were not upon any Morgage, but upon other points and debates at Law, mentioned be<g ref="char:EOLhyphen"/>fore, Numb. 7.</p>
+            <p>
+               <hi>This was made appeare, and proved by the Chancery, and Starre Chamber Decrees aforeſaid; and alſo it doth and may farther appeare by ſeverall non-ſuits, in the Kings-Bench, and Common-Pleas; as alſo by a verdict, Iudgment and Execution</hi> Termino Paſchae; <hi>Iac.</hi> 3. <hi>againſt the ſaid</hi> William Bullock.</p>
+            <p>The Mannors and Lands in the Petition mentioned, are not now worth 800 l. <hi>per annum:</hi> after above 60. yeers improvement, as it is generally knowne in the Country where the Lands lye; and if the Deponents on <hi>Bullocks</hi> behalfe have averred, and depoſed otherwiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſons ought not in Juſtice to be credited, who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſed, &amp; gaine-ſayed undeniable Records touching <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Concerning the Woods and Tim<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tition mentioned, all Impartiall men kno<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Woods at the time of the ſale of the Ma<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and Lands <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſayers of Records as aforeſaid, may <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under my h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d the</hi> 
+                  <date>31. <hi>day of</hi> March, 1653.</date>
+               </dateline>
+               <signed>W<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>den.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
